@@ -1,4 +1,4 @@
-# sql-data-warehouse-project
+# Data Warehouse and Analytics Project
 Building a data warehouse with SQL Server, including ETL processes, data modeling, and analytics for a small business.
 
 Data Warehouse and Analytics Project
@@ -12,3 +12,6 @@ The data architecture for this project follows Medallion Architecture Bronze, Si
 Bronze Layer: Stores raw data as-is from the source systems. Data is ingested from CSV Files into SQL Server Database.
 Silver Layer: This layer includes data cleansing, standardization, and normalization processes to prepare data for analysis.
 Gold Layer: Houses business-ready data modeled into a star schema required for reporting and analytics.
+
+## 📖 Project Overview:
+**[Notion]([https://www.notion.com/templates/sql-data-warehouse-project](https://www.notion.so/Data-Warehouse-Project-1c4d85f9cd1e80368f38d6729e8e937d)):** Access to All Project Phases and Tasks.
