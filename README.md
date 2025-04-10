@@ -14,4 +14,4 @@ Silver Layer: This layer includes data cleansing, standardization, and normaliza
 Gold Layer: Houses business-ready data modeled into a star schema required for reporting and analytics.
 
 ## 📖 Project Overview:
-**[Notion]([https://www.notion.com/templates/sql-data-warehouse-project](https://www.notion.so/Data-Warehouse-Project-1c4d85f9cd1e80368f38d6729e8e937d)](https://abiding-carbon-aae.notion.site/Data-Warehouse-Project-1c4d85f9cd1e80368f38d6729e8e937d)](https://abiding-carbon-aae.notion.site/Data-Warehouse-Project-1c4d85f9cd1e80368f38d6729e8e937d?pvs=4)):** Access to All Project Phases and Tasks.
+**[Notion](https://abiding-carbon-aae.notion.site/Data-Warehouse-Project-1c4d85f9cd1e80368f38d6729e8e937d?pvs=4):** Access to All Project Phases and Tasks.
